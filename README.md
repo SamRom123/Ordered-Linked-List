@@ -1,4 +1,5 @@
 # Ordered-Linked-List
+(view as "Blame" or "raw")
 This assignment was from my CS2420 class "Data Structures And Algorithms" 
 I was tasked with creating an ordered linked list based around using the data structure as an organization tool for a list of users/members.
 The files "LinkedListTest.cpp" and "MemberDO.h" were given by the professor to allow for me to test the code, and to know what functions I needed to create. All other files were written by me.
