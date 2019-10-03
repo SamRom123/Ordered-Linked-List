@@ -35,7 +35,7 @@ OrderedLinkedList(const OrderedLinkedList& other)
 OrderedLinkedList<Type>& operator=(const OrderedLinkedList<Type>& other)
    Overloaded assignment operator that performs a deep copy 
 insert(const Type&)
-    Inserts a new member object into the linked list into the correct sorted location
+    Inserts a new member object into the linked list into the correct sorted location 
 find(int) const
     Searches through the linked list for a member object matching the given key
 get(int) const
